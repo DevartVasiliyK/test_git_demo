@@ -1,0 +1,7 @@
+﻿SET IDENTITY_INSERT dbo.tbl_geogr ON
+GO
+INSERT dbo.tbl_geogr(id, geogr) VALUES (1, 0xE6100000010C23C654D8BCCC4BC00BBA0BBD5BD3BF40)
+INSERT dbo.tbl_geogr(id, geogr) VALUES (2, NULL)
+GO
+SET IDENTITY_INSERT dbo.tbl_geogr OFF
+GO
